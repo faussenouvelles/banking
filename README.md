@@ -23,8 +23,8 @@
     <script src="https://unpkg.com/react-router-dom@5.2.1/umd/react-router-dom.min.js" crossorigin></script>
 
     <!-- load our react component. -->
-    <script src="context.js" defer type="text/babel"></script>
-    <script src="navbar.js" defer type="text/babel"></script>
+    <script src="https://raw.githubusercontent.com/faussenouvelles/banking/main/context.js" defer type="text/babel"></script>
+    <script src="https://raw.githubusercontent.com/faussenouvelles/banking/main/navbar.js" defer type="text/babel"></script>
     <script src="createaccount.js" defer type="text/babel"></script>
     <script src="login.js" defer type="text/babel"></script>
     <script src="deposit.js" defer type="text/babel"></script>
